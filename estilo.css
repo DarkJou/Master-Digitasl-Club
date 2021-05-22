@@ -151,3 +151,60 @@ li
     color: #fff;
     border-radius: 0 0 5px 5px;
 }
+@media screen and (max-width:400px) 
+{
+    .titulo
+    {
+        width: 100%;
+        background-size: cover;
+        background-attachment: fixed;
+        position: relative;
+    }
+    .h1
+    {
+        font-size: 50px;
+    }
+    .h2
+    {
+        font-size: 35px;
+    }
+    .cont
+    {
+        display: block;
+    }
+    .logo
+    {
+        width: 150px;
+        height: 150px;
+        margin: 10px 100px;
+    }
+    .galeria
+    {
+        width: 100%;
+        display: block;
+    }
+    .gal
+    {
+        width: 80%;
+        height: 320px;
+    } 
+    .img
+    {
+        width: 240px;
+        height: 210px;
+    }  
+    .derecha
+    {
+        width: 99%;
+        margin-bottom: -2850px;
+        right: 0;
+    } 
+    span
+    {
+        text-align: center;
+    }
+    #com
+    {
+        text-align: center;
+    }
+}

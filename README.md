@@ -1,1 +1,1 @@
-# Master-Digitasl-Club
+# Master-Digital-Club
